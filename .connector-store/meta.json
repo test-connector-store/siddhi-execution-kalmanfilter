@@ -1,0 +1,19 @@
+{
+    "name": "kalman filter",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-kalmanfilter/",
+    "description": "The siddhi-execution-kalman-filter extension is an extension to Siddhi provides that Kalman filtering capabilities to Siddhi. This allows you to detect outliers of input data. ",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "kalman-filter"
+    ],
+    "releases": [
+        {
+            "tagName": "4.1.1",
+            "products": []
+        }
+    ]
+}
